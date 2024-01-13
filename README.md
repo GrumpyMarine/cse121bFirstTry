@@ -1,1 +1,1 @@
-https://grumpymarine.github.io/cse121b/
+https://grumpymarine.github.io/cse121bFirstTry/
